@@ -5,7 +5,7 @@ permalink: /stores/
 Content
 
 <ul>
-{% for org_hash in site.data %}
+{% for org_hash in site.data.orgs %}
 {% assign org = org_hash[1] %}
   <li>
     <a href="https://github.com/{{ org.username }}">
