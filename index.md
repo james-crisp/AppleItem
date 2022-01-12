@@ -1,7 +1,6 @@
 ## Welcome to GitHub Pages
 
 [stores page](https://james-crisp.github.io/Apple_Stock_Website/stores)
-[editor on GitHub](https://github.com/james-crisp/Apple_Stock_Website/edit/gh-pages/index.md)
 
 You can use the [editor on GitHub](https://github.com/james-crisp/Apple_Stock_Website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
