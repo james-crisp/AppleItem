@@ -2,9 +2,13 @@
 
 ## Macbook Pro 14
 
-[Base Model Space Gray](https://www.apple.com/shop/buy-mac/macbook-pro/14-inch-space-gray-8-core-cpu-14-core-gpu-512gb#) In Stock
+[8-Core CPU, 14-Core GPU 512GB SSD Space Gray](https://www.apple.com/shop/buy-mac/macbook-pro/14-inch-space-gray-8-core-cpu-14-core-gpu-512gb#) In Stock
 
-[Base Model Silver](https://www.apple.com/shop/buy-mac/macbook-pro/14-inch-silver-8-core-cpu-14-core-gpu-512gb#) Not Available
+[8-Core CPU, 14-Core GPU 512GB SSD Silver](https://www.apple.com/shop/buy-mac/macbook-pro/14-inch-silver-8-core-cpu-14-core-gpu-512gb#) Not Available
+
+[10-Core CPU, 16-Core GPU 1TB SSD Space Gray](https://www.apple.com/shop/buy-mac/macbook-pro/14-inch-space-gray-10-core-cpu-16-core-gpu-1tb#) In Stock
+
+[10-Core CPU, 16-Core GPU 1TB SSD Silver](https://www.apple.com/shop/buy-mac/macbook-pro/14-inch-silver-10-core-cpu-16-core-gpu-1tb#) Not Available
 
 ## Macbook Pro 16
 
