@@ -1,4 +1,4 @@
-## Welcome to Items Apple
+## Welcome to Apple Item
 Check the stock of Apple Items at your local Apple Store
 
 [Apple Southpoint](https://james-crisp.github.io/Apple_Stock_Website/Southpoint)
@@ -14,4 +14,4 @@ Check the stock of Apple Items at your local Apple Store
 
 ### Support or Contact
 
-Contact support@ItemsApple.com for more information or any questions you may have.
+Contact support@AppleItem.com for more information or any questions you may have.
