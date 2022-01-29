@@ -37,6 +37,7 @@ Durham, NC 27713
 (919) 474-6940
 
 _Store Hours_
+
 Monday	10:00 a.m. - 8:00 p.m.
 
 Tuesday	10:00 a.m. - 8:00 p.m.
