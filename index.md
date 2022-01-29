@@ -25,4 +25,4 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Support or Contact
 
-Contact support@AppleStock.info for more information or any questions you may have.
+Contact support@ItemsApple.com for more information or any questions you may have.
