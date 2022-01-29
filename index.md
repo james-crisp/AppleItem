@@ -12,8 +12,6 @@ Check the stock of Apple Items at your local Apple Store
 
 ![Image](https://rtlimages.apple.com/cmc/dieter/store/16_9/R049.png?resize=2880:1612&output-format=jpg&output-quality=85&interpolation=progressive-bicubic)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
 ### Support or Contact
 
 Contact support@ItemsApple.com for more information or any questions you may have.
