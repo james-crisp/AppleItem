@@ -1,9 +1,9 @@
 ## Welcome to Apple Item
 Check the stock of Apple Items at your local Apple Store
 
-[Apple Southpoint](https://james-crisp.github.io/Apple_Stock_Website/Southpoint)
+[Apple Southpoint](https://james-crisp.github.io/AppleItem/Southpoint)
 
-[Apple Crabtree Valley Mall](https://james-crisp.github.io/Apple_Stock_Website/Crabtree)
+[Apple Crabtree Valley Mall](https://james-crisp.github.io/AppleItem/Crabtree)
 
 ### Apple Stores
 
