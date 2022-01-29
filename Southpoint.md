@@ -20,7 +20,7 @@ $2699 [10-Core CPU, 16-Core GPU 1TB SSD Space Gray](https://www.apple.com/shop/b
 
 $2699 [10-Core CPU, 16-Core GPU 1TB SSD Silver](https://www.apple.com/shop/buy-mac/macbook-pro/16-inch-silver-10-core-cpu-16-core-gpu-1tb#) Not Available
 
-### MacBook Pro 16 MAX
+### M1 MAX
 
 $3499 [10-Core CPU, 32-Core GPU 1TB SSD Space Gray](https://www.apple.com/shop/buy-mac/macbook-pro/16-inch-space-gray-10-core-cpu-32-core-gpu-1tb#) In Stock
 
