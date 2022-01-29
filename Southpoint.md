@@ -28,8 +28,6 @@ $3499 [10-Core CPU, 32-Core GPU 1TB SSD Silver](https://www.apple.com/shop/buy-m
 
 ![Image](https://rtlimages.apple.com/cmc/dieter/store/16_9/R049.png?resize=2880:1612&output-format=jpg&output-quality=85&interpolation=progressive-bicubic)
 
-_Address_
-
 8030 Renaissance Parkway
 
 Durham, NC 27713
