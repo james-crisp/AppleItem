@@ -10,7 +10,7 @@ Check the stock of Apple Items at your local Apple Store
 - [Southpoint](https://www.apple.com/retail/southpoint/)
 - [Crabtree](https://www.apple.com/retail/crabtreevalleymall/)
 
-![Image](https://rtlimages.apple.com/cmc/dieter/store/16_9/R049.png?resize=2880:1612&output-format=jpg&output-quality=85&interpolation=progressive-bicubic)
+![Image](MPB1416.png)
 
 ### Support or Contact
 
