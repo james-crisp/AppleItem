@@ -6,7 +6,7 @@
     <a href="https://github.com/{{ org.username }}">
       {{ org.name }}
     </a>
-    ({{ org.members | size }} members)
+    ({{ org.members | name }} members)
   </li>
 {% endfor %}
 </ul>
